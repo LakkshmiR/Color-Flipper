@@ -1,0 +1,16 @@
+body {
+  background-color: var(--bg-color, white);
+}
+.container {
+  text-align: center;
+}
+.btn {
+  background-color: whitesmoke;
+  font-size: 16px;
+  border: none;
+  outline: 2px solid black;
+  padding: 2rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  cursor: pointer;
+}
